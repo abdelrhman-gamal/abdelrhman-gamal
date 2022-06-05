@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.Js**
 
-- 💬 Ask me about **Optimizing, Manipulating the scene of your pages whether from Search Engine or Users**
+- 💬 Ask me about **Creating, Optimizing, Manipulating the scene of your pages whether for Search Engines or Users**
 
 - 📫 How to reach me **abdelrahman.frontend@gmail.com**
 
