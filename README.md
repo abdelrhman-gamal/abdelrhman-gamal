@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **PMP**
 
-- 👨‍💻 All of my projects are available at [https://zappmanager.com/](https://zappmanager.com/)
+- 👨‍💻 All of my projects are available at [https://zappseeder.com/](https://zappseeder.com/)
 
-- 📝 I regularly write articles on [https://zappmanager.com/articles](https://zappmanager.com/articles)
+- 📝 I regularly write articles on [https://zappseeder.com/articles](https://zappseeder.com/articles)
 
 - 💬 Ask me about **Coding, Just Coding**
 
