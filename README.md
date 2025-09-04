@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://zappseeder.com/](https://zappseeder.com/)
 
+- 📺 guess what! ZappSeeder previous works here: [ZappSeeder Portfolio](https://github.com/zappseeder/portfolio)
+
 - 📝 I regularly write articles on [https://zappseeder.com/articles](https://zappseeder.com/articles)
 
 - 💬 Ask me about **Coding, Just Coding**
